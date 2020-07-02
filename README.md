@@ -6,4 +6,6 @@ The information is displayed by:
 -	Brands
 -	Exportation
 -	Importation
-The tables are dynamic and are feed by INEGI’s information until December 2019. 
+
+
+## The tables are dynamic and are feed by INEGI’s information until December 2019. 
